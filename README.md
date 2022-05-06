@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently learning ABP & Flutter 
 
-- 💬 Ask me about Frontend Development **React Nodejs**
+- 💬 Ask me about Frontend Development **& Nodejs**
 
 - Known Familiar **Bootstrap5 .Net ReactJS NodeJS SQL**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yogeshwaran-s-37939021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yogeshwaran-s-37939021a" height="30" width="40" style="padding:40px" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucp23fsqqpw2bafsnrgcya5a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucp23fsqqpw2bafsnrgcya5a" height="30" width="40" /></a>
 </p>
