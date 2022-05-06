@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yogeshwaran</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjyogi73" alt="sjyogi73" /></a> </p>
 
-- 🌱 I’m currently learning ABP & Flutter **Bootstrap5 .Net**
+- 🌱 I’m currently learning ABP & Flutter 
 
 - 💬 Ask me about Frontend Development **React Nodejs**
 
+- Known Familiar **Bootstrap5 .Net ReactJS NodeJS SQL**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yogeshwaran-s-37939021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yogeshwaran-s-37939021a" height="30" width="40" /></a>
