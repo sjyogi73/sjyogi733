@@ -6,7 +6,9 @@
 
 - 💬 Ask me about Frontend Development **& Nodejs**
 
-- Known Familiar **Bootstrap5 .Net ReactJS NodeJS SQL**
+- Known Familiar **Bootstrap5 ReactJS NodeJS SQL .Net**
+
+- All Time Partner is  ReactJS & NodeJS
 
 - ----------------------------------------------------------- -
 
