@@ -2,13 +2,13 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 
-- 🌱 I’m currently learning ABP & Flutter 
+- 🌱 I’m currently learning Python & Flutter & Devops
 
 - 💬 Ask me about Frontend Development **& Nodejs**
 
-- Known Familiar **Bootstrap5 ReactJS NodeJS SQL .Net**
+- Known Familiar **Bootstrap5 ReactJS NodeJS MySQL .Net VB.NET Python**
 
-- All Time Partner is  ReactJS & NodeJS
+- All Time Partner is  ReactJS & NodeJS & Python
 
 - ----------------------------------------------------------- -
 
