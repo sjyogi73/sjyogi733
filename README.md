@@ -4,16 +4,16 @@
 
 - 🌱 I’m currently learning Python & Flutter & Devops
 
-- 💬 Ask me about Frontend Development **& Nodejs**
+- 💬 Ask me about Frontend Development & Nodejs
 
-- Known Familiar **Bootstrap5 ReactJS NodeJS MySQL .Net VB.NET Python**
+- Known Familiar ** Bootstrap5 ReactJS NodeJS MySQL .Net VB.NET Python **
 
 - All Time Partner is  ReactJS & NodeJS & Python
-- 
-## 🌐 Socials:
+
+## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#4318) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yogeshwaransaravanan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sjyogi73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yogeshwaran-s-37939021a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCP23FSqQPw2bAFsNrgCYA5A) 
 
-
+:
 
 
 # 💻 Tech Stack:
