@@ -21,7 +21,7 @@
 
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Status:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sjyogi73&theme=dark&hide_border=false)<__________>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sjyogi73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
